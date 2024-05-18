@@ -1,0 +1,19 @@
+﻿  Project.cpp
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(51,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(51,71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(52,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(52,84): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(71,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(72,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(73,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(74,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(97,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(115,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(115,83): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(120,84): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(176,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(179,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(185,23): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(193,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\Project\Project.cpp(212,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project.vcxproj -> C:\Users\M. Göktuğ Canik\Desktop\Rayib\Project - Kopya\x64\Debug\Project.exe
